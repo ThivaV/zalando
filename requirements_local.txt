@@ -1,4 +1,4 @@
 ipykernel
 ipywidgets
 tqdm
-pandas==2.2.1
+pandas
