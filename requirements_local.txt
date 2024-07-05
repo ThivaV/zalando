@@ -1,4 +1,10 @@
 ipykernel
 ipywidgets
 tqdm
+numpy
 pandas
+requests
+Pillow
+transformers
+sentence-transformers
+datesets
