@@ -160,3 +160,9 @@ cython_debug/
 .idea/
 
 .vscode
+
+data/processed_data/v1.0/imgs/x100_small/*.jpg
+data/processed_data/v1.0/imgs/x300_medium/*.jpg
+
+notebooks/to_hf/hf_ds/hf_df_x100/*.jpg
+notebooks/to_hf/hf_ds/hf_df_x300/*.jpg
