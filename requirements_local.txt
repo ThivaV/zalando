@@ -3,8 +3,7 @@ ipywidgets
 tqdm
 numpy
 pandas
-requests
-Pillow
-transformers
-sentence-transformers
-datesets
+matplotlib
+seaborn
+python-dotenv
+python-box
